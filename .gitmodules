@@ -1,0 +1,6 @@
+[submodule "ikt"]
+	path = ikt
+	url = https://github.com/SzGeryX/ikt
+[submodule "IKT-Projekt-2f"]
+	path = IKT-Projekt-2f
+	url = https://github.com/KallaiGabor12/IKT-Projekt-2f
